@@ -322,7 +322,7 @@ const Apply = ({ setLoading, loading }) => {
                           value={formData.name}
                           onChange={handleChange}
                           placeholder="كما في الهوية"
-                          className="h-12 px-4 rounded-xl border border-gray-300 focus:border-[#0f4c72] focus:ring-4 focus:ring-[#0f4c72]/10 outline-none transition-all"
+                          className="h-12 text-right px-4 rounded-xl border border-gray-300 focus:border-[#0f4c72] focus:ring-4 focus:ring-[#0f4c72]/10 outline-none transition-all"
                           required
                         />
                       </div>
@@ -341,7 +341,7 @@ const Apply = ({ setLoading, loading }) => {
                           placeholder="10 أرقام"
                           maxLength="10"
                           inputMode="numeric"
-                          className="h-12 px-4 rounded-xl border border-gray-300 focus:border-[#0f4c72] focus:ring-4 focus:ring-[#0f4c72]/10 outline-none transition-all"
+                          className="h-12 text-right px-4 rounded-xl border border-gray-300 focus:border-[#0f4c72] focus:ring-4 focus:ring-[#0f4c72]/10 outline-none transition-all"
                           required
                         />
                       </div>
@@ -363,7 +363,7 @@ const Apply = ({ setLoading, loading }) => {
                           placeholder="10 أرقام"
                           maxLength="10"
                           inputMode="numeric"
-                          className="h-12 px-4 rounded-xl border border-gray-300 focus:border-[#0f4c72] focus:ring-4 focus:ring-[#0f4c72]/10 outline-none transition-all"
+                          className="h-12 text-right px-4 rounded-xl border border-gray-300 focus:border-[#0f4c72] focus:ring-4 focus:ring-[#0f4c72]/10 outline-none transition-all"
                           required
                         />
                       </div>
@@ -382,7 +382,7 @@ const Apply = ({ setLoading, loading }) => {
                           placeholder="10 أرقام"
                           maxLength="10"
                           inputMode="numeric"
-                          className="h-12 px-4 rounded-xl border border-gray-300 focus:border-[#0f4c72] focus:ring-4 focus:ring-[#0f4c72]/10 outline-none transition-all"
+                          className="h-12 text-right px-4 rounded-xl border border-gray-300 focus:border-[#0f4c72] focus:ring-4 focus:ring-[#0f4c72]/10 outline-none transition-all"
                           required
                         />
                       </div>
@@ -399,7 +399,7 @@ const Apply = ({ setLoading, loading }) => {
                           value={formData.name}
                           onChange={handleChange}
                           placeholder="الاسم الكامل"
-                          className="h-12 px-4 rounded-xl border border-gray-300 focus:border-[#0f4c72] focus:ring-4 focus:ring-[#0f4c72]/10 outline-none transition-all"
+                          className="h-12 text-right px-4 rounded-xl border border-gray-300 focus:border-[#0f4c72] focus:ring-4 focus:ring-[#0f4c72]/10 outline-none transition-all"
                           required
                         />
                       </div>
