@@ -20,7 +20,7 @@ const ThirdPartyOffers = ({ loading, setLoading }) => {
 
   const offers = [
     {
-      company: 'الصقر للتأمين', logo: '/index_files/Sagr.svg', price: '376.66', rating: 4,
+      company: 'الصقر للتأمين', logo: '/index_files/Sagr.svg', price: '127.66', rating: 4,
       features: [{text: 'المسؤولية المدنية تجاه الغير بحد أقصى 10,000,000 ريال', price: 'مشمول'}]
     },
     {
